@@ -6,7 +6,7 @@
 
 ## 👋 Olá! Eu sou [Emaneul Malungo](https://github.com/emanuel-malungo)
 
-🔭 Atualmente estou trabalhando em **uma E-commerce voltado para Web.**  
+🔭 Atualmente estou trabalhando em ****  
 🌱 Atualmente estou aprendendo **nova tecnologia como Node js e TypeScript, TailwindCss.**  
 💬 Pergunte-me sobre **C, C#, MySql, CSS3, HTML5, JavaScript**  
 📫 Como me encontrar: **emanuelmalungo856@gmail.com*  
